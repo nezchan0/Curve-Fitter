@@ -36,8 +36,8 @@ myenv\Scripts\activate # On Windows
 ### 2. Clone the repository
 
 ``` bash
-git clone [https://github.com/nezchan0/Curve-Fitter.git](https://github.com/nezchan0/Curve-Fitter.git)
-cd curve-fitter
+git clone https://github.com/nezchan0/Curve-Fitter.git
+cd curve-fitter/Curve-Fitting-Tool
 ```
 
 ### 3. Install dependencies
@@ -94,16 +94,9 @@ python cli_main.py
 
 ## 🧑‍💻 Author
 
-**Phyrnna Nezchan**\
-📧 *\[Add your email or GitHub profile here\]*
+Alok Kumar Maurya – Developer | Email: [alok05.maurya@gmail.com](alok05.maurya@gmail.com)
+
 
 ------------------------------------------------------------------------
 
-## 📜 License
 
-This project is licensed under the **MIT License** --- feel free to use
-and modify.
-
-------------------------------------------------------------------------
-
-> *Made with ❤️ using Python, Streamlit, and NumPy.*
