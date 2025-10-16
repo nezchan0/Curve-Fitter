@@ -90,7 +90,15 @@ python cli_main.py
 
 ------------------------------------------------------------------------
 
+## 🌐 Live Link & Preview
 
+Check out the live **Streamlit Curve Fitter Tool** here:  
+🔗 Live Demo -> [https://your-streamlit-app-link.com](https://nezchan0-curve-fitter-curve-fitting-toolstreamlit-app-c7r9ti.streamlit.app/)
+
+### Preview
+![Curve Fitter Tool Preview](preview.png) 
+
+------------------------------------------------------------------------
 
 ## 🧑‍💻 Author
 
