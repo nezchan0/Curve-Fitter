@@ -1,4 +1,5 @@
 # Curve Fitter Tool 🧮
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 A simple and interactive Python application for **curve fitting**, built
 using **Streamlit** for the GUI and a **CLI tool** for terminal-based
@@ -97,6 +98,14 @@ Check out the live **Streamlit Curve Fitter Tool** here:
 
 ### Preview
 ![Curve Fitter Tool Preview](preview.png) 
+
+------------------------------------------------------------------------
+
+
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE) — feel free to use, modify, and distribute it freely, with attribution.
+
 
 ------------------------------------------------------------------------
 
